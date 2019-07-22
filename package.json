@@ -1,0 +1,15 @@
+{
+  "name": "emdaer-bug",
+  "private": true,
+  "scripts": {
+    "readme": "emdaer "
+  },
+  "version": "1.0.0",
+  "description": "reproduction of emdaer CLI bug",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@emdaer/cli": "^3.2.27",
+    "@emdaer/plugin-import": "^3.2.27"
+  }
+}
