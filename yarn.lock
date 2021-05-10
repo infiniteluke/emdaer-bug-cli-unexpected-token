@@ -16,9 +16,9 @@
     inquirer "^6.4.1"
 
 "@emdaer/core@^3.2.27":
-  version "3.2.26"
-  resolved "https://registry.yarnpkg.com/@emdaer/core/-/core-3.2.26.tgz#f12a8428980118b82aaa3b879c2b09bf7cbee6ca"
-  integrity sha512-iVnRqTNi0zWBYOc4dtqm0CH0CVxXlYsHNO+9jTMQhD0xRLvH+OnFqLvL1f8QqIL1uzRq75XIGJxmI7PONstkOQ==
+  version "3.2.31"
+  resolved "https://registry.yarnpkg.com/@emdaer/core/-/core-3.2.31.tgz#f5288a65729149c9327d9118b36a39fa06352b37"
+  integrity sha512-5MA2jynqYlHz8eY2e8tW71YJFD+pQbzvoQFLP9I5a4J6lX4ew/s+ze2xcqQWXDP2wqed5fp2jmS5c5UCjEJPmg==
   dependencies:
     html-minifier "^4.0.0"
     js-yaml "3.13.1"
@@ -298,9 +298,9 @@ lodash.get@^4.4.2:
   integrity sha1-LRd/ZS+jHpObRDjVNBSZ36OCXpk=
 
 lodash@^4.17.12:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 lower-case@^1.1.1:
   version "1.1.4"
